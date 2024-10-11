@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Bijay Nayak",
+    "storeName": "abc pvt.ltd",
+    "image": "/images/avatar-1.jpg",
+    "rating": 4,
+    "review": "What a greate servise. Due to the good service my business growing record breaking. Thank you "
+  },
+  {
+    "id": 2,
+    "name": "Ajaya Rai",
+    "storeName": "some pvt.ltd",
+    "image": "/images/avatar-2.jpg",
+    "rating": 5,
+    "review": "What a greate servise. Due to the good service my business growing record breaking. Thank you "
+  },
+  {
+    "id": 3,
+    "name": "Rajesh Rout",
+    "storeName": "xyz pvt.ltd",
+    "image": "/images/avatar-3.jpg",
+    "rating": 3,
+    "review": "What a greate servise. Due to the good service my business growing record breaking. Thank you "
+  },
+  {
+    "id": 4,
+    "name": "Ganesh Sahoo",
+    "storeName": "asd pvt.ltd",
+    "image": "/images/avatar-2.jpg",
+    "rating": 5,
+    "review": "What a greate servise. Due to the good service my business growing record breaking. Thank you "
+  },
+  {
+    "id": 5,
+    "name": "Avijit swain",
+    "storeName": "vhf pvt.ltd",
+    "image": "/images/avatar-4.jpg",
+    "rating": 4,
+    "review": "What a greate servise. Due to the good service my business growing record breaking. Thank you "
+  }
+]
